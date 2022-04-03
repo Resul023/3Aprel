@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\bin\Debug\netcoreapp3.1\2AprelTask2.exe
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\bin\Debug\netcoreapp3.1\2AprelTask2.deps.json
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\bin\Debug\netcoreapp3.1\2AprelTask2.runtimeconfig.json
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\bin\Debug\netcoreapp3.1\2AprelTask2.runtimeconfig.dev.json
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\bin\Debug\netcoreapp3.1\2AprelTask2.dll
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\bin\Debug\netcoreapp3.1\2AprelTask2.pdb
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.AssemblyInfo.cs
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.csproj.CopyComplete
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.dll
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.pdb
+C:\Users\User\Desktop\2Aprel\2AprelTask2\2AprelTask2\obj\Debug\netcoreapp3.1\2AprelTask2.genruntimeconfig.cache

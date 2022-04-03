@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\bin\Debug\netcoreapp3.1\2Aprel.exe
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\bin\Debug\netcoreapp3.1\2Aprel.deps.json
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\bin\Debug\netcoreapp3.1\2Aprel.runtimeconfig.json
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\bin\Debug\netcoreapp3.1\2Aprel.runtimeconfig.dev.json
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\bin\Debug\netcoreapp3.1\2Aprel.dll
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\bin\Debug\netcoreapp3.1\2Aprel.pdb
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.AssemblyInfo.cs
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.csproj.CopyComplete
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.dll
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.pdb
+C:\Users\User\Desktop\2Aprel\2Aprel\2Aprel\obj\Debug\netcoreapp3.1\2Aprel.genruntimeconfig.cache
