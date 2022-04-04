@@ -27,6 +27,7 @@ namespace _2AprelTask2
                 }
                 else
                 {
+                     studentOne.FullName = fullName
                     break;
                 }
             }
@@ -40,6 +41,7 @@ namespace _2AprelTask2
                 }
                 else
                 {
+                    studentOne.GroupNo = groupNo;
                     break;
                     
                 }
