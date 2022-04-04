@@ -24,7 +24,7 @@ namespace ClassLibrary
             { 
                 return this._fullName; 
             }
-            private set 
+             set 
             {
                 if (value.Split(" ").Length == 2 && value.Split(" ")[1]!= "")
                 {
@@ -44,7 +44,7 @@ namespace ClassLibrary
             {
                 return this._groupNo;
             }
-            private set
+             set
             {
                 if (value.Length == 4 && char.IsLetter(value[0]) && char.IsDigit(value[1]) && char.IsDigit(value[2]) && char.IsDigit(value[3]) )
                 {
